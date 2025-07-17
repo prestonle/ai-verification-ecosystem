@@ -10,8 +10,8 @@ When AI assistants disagree, how do you know what to trust? The AI Verification 
 
 ### 1. Coordination_Lens (Browser Extension)
 - Real-time monitoring of AI responses
-- 87% accuracy in detecting semantic divergence
-- 200ms response time
+- Semantic divergence detection in testing
+- Fast response time
 
 ### 2. Hallucination Detector
 - Identifies 6 types of hallucination patterns
@@ -36,7 +36,7 @@ Visit our ecosystem: [https://prestonle.github.io/ai-verification-ecosystem/](ht
 
 - ✅ Landing page live
 - 🚧 Coordination_Lens - In Chrome Web Store review
-- 🚧 Analysis tools - Coming August 2024
+- 🚧 Analysis tools - In active development
 
 ## 🤝 Contributing
 
@@ -45,3 +45,4 @@ This project is part of ongoing research into AI verification and safety.
 ---
 
 Created by Preston Lee Horn
+
