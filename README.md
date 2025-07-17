@@ -14,8 +14,8 @@ When AI assistants disagree, how do you know what to trust? The AI Verification 
 - Fast response time
 
 ### 2. Hallucination Detector
-- Identifies 6 types of hallucination patterns
-- Extracts 15+ confidence markers
+- Identifies various hallucination patterns
+- Analyzes confidence markers
 - Pattern-based analysis
 
 ### 3. Confidence Calibrator
@@ -45,4 +45,5 @@ This project is part of ongoing research into AI verification and safety.
 ---
 
 Created by Preston Lee Horn
+
 
